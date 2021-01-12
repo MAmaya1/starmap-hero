@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hero should match Snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="mx-auto flex w-792 h-373 bg-white justify-between shadow-sm mobile:h-full mobile:flex-col-reverse"
+      >
+        <div
+          class="flex flex-col w-70 justify-between h-full pl-4 pt-3 pb-3 mobile:w-full mobile:p-10"
+        >
+          <div>
+            <p
+              class="text-3xl mobile:text-5xl"
+              data-testid="hero-header"
+            />
+            <p
+              class="text-lg mt-5 mobile:text-3xl"
+            />
+          </div>
+          <img
+            class="w-0.5 mx-auto mt-10 mb-12 hidden mobile:inline-block"
+            src="/images/hero.png"
+          />
+          <button
+            class="bg-button text-white text-lg font-bold py-3 cursor-pointer shadow-sm rounded-lg hover:bg-hover transition duration-500 ease-in-out mobile:text-3xl"
+          />
+        </div>
+        <div
+          class="flex-auto mr-0"
+        >
+          <img
+            class="h-full float-right mobile:hidden"
+            src="/images/hero.png"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="mx-auto flex w-792 h-373 bg-white justify-between shadow-sm mobile:h-full mobile:flex-col-reverse"
+    >
+      <div
+        class="flex flex-col w-70 justify-between h-full pl-4 pt-3 pb-3 mobile:w-full mobile:p-10"
+      >
+        <div>
+          <p
+            class="text-3xl mobile:text-5xl"
+            data-testid="hero-header"
+          />
+          <p
+            class="text-lg mt-5 mobile:text-3xl"
+          />
+        </div>
+        <img
+          class="w-0.5 mx-auto mt-10 mb-12 hidden mobile:inline-block"
+          src="/images/hero.png"
+        />
+        <button
+          class="bg-button text-white text-lg font-bold py-3 cursor-pointer shadow-sm rounded-lg hover:bg-hover transition duration-500 ease-in-out mobile:text-3xl"
+        />
+      </div>
+      <div
+        class="flex-auto mr-0"
+      >
+        <img
+          class="h-full float-right mobile:hidden"
+          src="/images/hero.png"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
